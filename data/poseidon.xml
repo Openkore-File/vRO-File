@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<desc>Vietnam SelfService Server</desc>
+	<servicetype>vietnam</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	
+	<connection>
+		<display>Vietnam Live</display>
+		<desc>None</desc>
+		<domain>192.168.1.8:6900</domain>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>15</langtype>
+		<registrationweb>https://ro.vtcgame.vn/</registrationweb>
+		<aid>
+			<admin>100007</admin><admin>100022</admin><admin>100045</admin><admin>101665</admin><admin>101664</admin><admin>101645</admin>
+		</aid>
+	</connection>
+</clientinfo>
+
